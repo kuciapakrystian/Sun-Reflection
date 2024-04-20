@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="70"/>
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="65"/>
 
 # Sunset
 ## Project Specifications:
